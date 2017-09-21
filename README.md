@@ -11,7 +11,7 @@
 
 1) Загрузить и установить [Apache Maven](http://www.apache-maven.ru/install.html)
 
-2) Загрузить и установить [msysgit](https://git-for-windows.github.io) and clone [Analyzer](https://github.com/twentytwol/Analyzer)
+2) Загрузить и установить [msysgit](https://git-for-windows.github.io) и clone [Analyzer](https://github.com/twentytwol/Analyzer)
 
 3) Открыть \Analyzer\TextAnalyzer 
 
